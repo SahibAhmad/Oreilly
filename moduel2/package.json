@@ -1,0 +1,16 @@
+{
+  "name": "moduel2",
+  "version": "1.0.0",
+  "description": "Module 2 of oriely code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Sahib Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
